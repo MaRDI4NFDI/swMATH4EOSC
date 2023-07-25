@@ -33,8 +33,7 @@ Standardized access to swMATH data is provided by integrating swMATH in the EOSC
 
 
 ##  Research Activity Identifier (RAiD) 
-
-
+Research projects in Mathematics and indentified with a Research Activity Identifier (RAiD) should be harvestable through the PIDGraph API. These RAiDs must be linked with other PIDs like ORCID and DOIs.
 
 
 
