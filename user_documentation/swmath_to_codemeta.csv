@@ -15,5 +15,5 @@ orms_id,identifier
 programming_languages,programmingLanguage
 related_software,relatedLink
 source_code,codeRepository
-standard_articles,Citation
+standard_articles,citation
 zbmath_url,url
