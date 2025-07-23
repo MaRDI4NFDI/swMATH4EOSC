@@ -1,4 +1,6 @@
 # Software Metadata Documentation
+This documentation describes the swMATH endpoint of the REST API service supported by zbMATH Open:
+[https://api.zbmath.org/v1/software/](https://api.zbmath.org/v1/software/)
 
 ## Core Metadata Fields
 
